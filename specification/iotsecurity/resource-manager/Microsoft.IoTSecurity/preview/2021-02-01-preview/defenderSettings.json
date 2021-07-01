@@ -319,6 +319,12 @@
             "name": "OnboardingKind",
             "modelAsString": true
           }
+        },
+        "location": {
+          "type": "string",
+          "description": "Defender Resources Location",
+          "example": "eastus",
+          "readOnly": true
         }
       },
       "required": [
